@@ -1,0 +1,37 @@
+{
+  "name": "outrun",
+  "description": "Classic synthwave dual-tone: midnight navy shadows, hot magenta midtones, electric cyan highlights.",
+  "ramp": [
+    "#0B0C10",
+    "#2A0A4A",
+    "#FF0055",
+    "#FF6EC7",
+    "#00F0FF"
+  ],
+  "palette": [
+    "#0B0C10",
+    "#2A0A4A",
+    "#8B00FF",
+    "#FF0055",
+    "#FF6EC7",
+    "#00F0FF",
+    "#FFE66D",
+    "#FFFFFF"
+  ],
+  "posterize": null,
+  "ink": {
+    "enabled": true,
+    "block": 0,
+    "c": 6,
+    "thickness": 1
+  },
+  "vhs": {
+    "aberration": 2,
+    "scanlines": 0.18,
+    "jitter": 1,
+    "wave": 1.0,
+    "grain": 0.05,
+    "vignette": 0.35,
+    "tracking_band": false
+  }
+}

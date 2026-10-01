@@ -1,0 +1,42 @@
+{
+  "name": "nightmare",
+  "description": "Neon cyberpunk horror: crushed void blacks, decay greens, magenta/cyan neon, violet/orange horizon glow.",
+  "ramp": [
+    "#0B0C10",
+    "#1F2833",
+    "#4B0A6E",
+    "#C0004A",
+    "#FF0055",
+    "#FF7BB0",
+    "#00F0FF"
+  ],
+  "palette": [
+    "#0B0C10",
+    "#1F2833",
+    "#2C3531",
+    "#4E5D4C",
+    "#4B0A6E",
+    "#8B00FF",
+    "#FF0055",
+    "#FF7BB0",
+    "#00F0FF",
+    "#FF5500",
+    "#F2F2F2"
+  ],
+  "posterize": 6,
+  "ink": {
+    "enabled": true,
+    "block": 0,
+    "c": 6,
+    "thickness": 1
+  },
+  "vhs": {
+    "aberration": 3,
+    "scanlines": 0.22,
+    "jitter": 3,
+    "wave": 1.5,
+    "grain": 0.07,
+    "vignette": 0.45,
+    "tracking_band": true
+  }
+}

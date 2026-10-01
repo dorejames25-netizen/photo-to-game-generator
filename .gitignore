@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Godot
+.godot/
+*.import
+
+# raw drop zone contents (keep the folders)
+Assets/DropZone/**
+!Assets/DropZone/photos/
+!Assets/DropZone/**/.gitkeep
+
+.DS_Store
+Thumbs.db

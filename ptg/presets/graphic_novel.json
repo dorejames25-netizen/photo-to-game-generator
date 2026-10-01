@@ -1,0 +1,37 @@
+{
+  "name": "graphic_novel",
+  "description": "High-contrast cel shading: heavy black shadows, flat bold reds and neon blue highlights, thick ink.",
+  "ramp": [
+    "#000000",
+    "#000000",
+    "#8A0014",
+    "#E3122C",
+    "#F2C6B4",
+    "#3FA9FF",
+    "#FFFFFF"
+  ],
+  "palette": [
+    "#000000",
+    "#7A0010",
+    "#E3122C",
+    "#1B3A8C",
+    "#3FA9FF",
+    "#F5F5F5"
+  ],
+  "posterize": 5,
+  "ink": {
+    "enabled": true,
+    "block": 0,
+    "c": 7,
+    "thickness": 2
+  },
+  "vhs": {
+    "aberration": 1,
+    "scanlines": 0.1,
+    "jitter": 0,
+    "wave": 0.0,
+    "grain": 0.04,
+    "vignette": 0.25,
+    "tracking_band": false
+  }
+}
